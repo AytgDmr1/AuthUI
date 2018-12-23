@@ -1,8 +1,0 @@
-name: AuthUI
-main: AuthUI\AuthUI
-version: 1.0.0
-api: 3.5.1
-author: AytgDmr1
-commands:
-    authui:
-        description: AuthUI info
