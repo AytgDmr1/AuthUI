@@ -1,0 +1,11 @@
+register-form-title: Register
+register-form-text1: Register to play in our server. Leave the box empty to leave the server.
+register-form-text2: Type Password
+register-form-password-field: Password here...
+register-form-empty-password-field: You wanted not to register.
+
+login-form-title: Login
+login-form-text1: Login to play in our server. Leave the box empty to leave the server.
+login-form-text2: Type Password
+login-form-password-field: Password here...
+login-form-empty-password-field: You wanted not to login.
