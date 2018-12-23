@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AytgDmr1/AuthUI
+branches:
+- master
+projects:
+  AuthUI:
+    path: ""
+    icon: img.png
+...
