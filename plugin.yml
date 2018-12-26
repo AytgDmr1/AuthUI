@@ -1,8 +1,9 @@
 name: AuthUI
-main: AuthUI\AuthUI
+main: aytgdmr1\AuthUI\AuthUI
 version: 1.0.0
-api: [3.5.1, 3.5.2]
+api: [3.0.0]
 author: AytgDmr1
 commands:
     authui:
+        usage: "/authui"
         description: AuthUI info
